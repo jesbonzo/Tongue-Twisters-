@@ -1,0 +1,64 @@
+body {
+  
+  font-family: calibri;
+}
+
+h1{
+    text-align: center;
+	color: teal;
+	font-size: 50px;
+
+}
+h2 {
+	text-align: center;
+	color:gray;
+	font-size: 30px;
+}
+
+h3 {
+	text-align: center;
+	color:#e91e63;
+	font-size: 15px;
+	
+}
+
+h4 {
+	text-align: center;
+	color:#009688;
+	font-size: 15px;
+	
+}
+
+h5 {
+
+	 padding: 30px;
+	text-align: center;
+	color:#ff1a40;
+	
+	font-size: 200px;
+	
+	 
+}
+
+p {
+	padding: 30px;
+	text-align: center;
+	color:gray;
+	
+	font-size: 60px;
+	
+}
+
+
+button{
+	padding: 15px;
+	margin: 15px;
+	font-color: white;
+	font-size: 50px;
+	border:10px;
+}
+img{
+	width: 80%;
+    height: auto;
+}
+   	
